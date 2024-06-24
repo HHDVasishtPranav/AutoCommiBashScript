@@ -1,4 +1,4 @@
-cd path
+cd path/of/the/repo
 
 git add .
 
@@ -8,5 +8,5 @@ git commit -m "$commit_message"
 
 git push origin main
 
-echo "Committed and pushed on $(date +"%Y-%m-%d %H:%M:%S")" >> path/commitlog.txt
+echo "Committed and pushed on $(date +"%Y-%m-%d %H:%M:%S")" >> path/of/the/repo/commitlog.txt
 
