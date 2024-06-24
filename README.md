@@ -1,5 +1,5 @@
 # AutoCommitBashScript
-This repository contains a script `autoCommit.sh` that automates the process of committing and pushing changes to a Git repository. The script also logs the commit time to a file.
+This repository contains a script `autoCommit.sh` that automates the process of committing and pushing changes to a Git repository. The script also logs the commit time to a file. This is specific to Unix-like operating systems such as Linux and macOS. 
 
 ## Script Details
 
