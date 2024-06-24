@@ -43,12 +43,20 @@ The script performs the following actions:
    0 */6 * * * /path/to/autoCommit.sh
    ```
 Breakdown of the cron expression:
+
 0: Minute (0th minute)
+
+
 */6: Hour (every 6th hour)
+
+
 *: Day of the month (every day)
+
+
 *: Month (every month)
+
+
 *: Day of the week (every day of the week)
-/path/to/autoCommit.sh: The absolute path to your script
 
    Replace `/path/to/autoCommit.sh` with the actual path to the `autoCommit.sh` script.
 
